@@ -55,3 +55,17 @@ Here you can enter subcategories to the above categories as shown in the example
 7. Expenses
 
 On this screen, enter the user name, category and subcategory of the expense, amount and date. In the Subcategories field, options for selection from the drop-down menu will automatically appear if the corresponding category entered above has subcategories.
+
+8. Salary %
+
+This screen is a help screen. It shows how much money you managed to collect at the percentage and end date entered on the previous screen.
+
+9. Financial Goals
+
+The purpose of this screen is to help you raise money for your financial goal. First, you enter the goal and the amount needed. In the salary percentage field, you write down how much percentage of your salary you want to set aside each month. Finally, you set a deadline by which you want to raise the amount.
+The program will calculate the amount raised in the last field. By pressing the Check button, a field will appear that tells you whether this is achievable or not.
+
+10. Reports
+    
+There are two reports available in our project.
+The first one provides a summary of the total expenses and savings for each month. The second report looks at how expenses are distributed by category for the current month and presents the data in a pie chart.
